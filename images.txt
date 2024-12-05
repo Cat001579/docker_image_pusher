@@ -1,1 +1,1 @@
---platform=linux/arm/v7 centos:centos7.9.2009
+--platform=sioty/arm64-centos
