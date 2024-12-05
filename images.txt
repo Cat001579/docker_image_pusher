@@ -1,5 +1,5 @@
 centos:7
 --platform=arm64v8
 
-jdk:17-slim
+jdk:17
 --platform=arm64v8
