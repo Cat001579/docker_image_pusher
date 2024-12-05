@@ -1,1 +1,1 @@
---platform=linux/sioty/arm64-centos
+--platform=linux/arm64/v8 centos:latest
