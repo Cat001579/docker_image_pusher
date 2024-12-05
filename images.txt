@@ -1,1 +1,1 @@
---platform=sioty/arm64-centos
+--platform=linux/sioty/arm64-centos
