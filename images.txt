@@ -1,4 +1,3 @@
-nginx
-redis
-
-
+Centos
+xhofe/alist:7
+--platform=arm64v8
