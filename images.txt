@@ -1,6 +1,5 @@
 centos:7
 --platform=arm64v8
 
-# 拉取jdk17镜像
 jdk:17-slim
 --platform=arm64v8
