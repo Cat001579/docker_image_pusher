@@ -1,1 +1,1 @@
-arm64v8/centos:9
+linux/arm/v7 centos:centos7.9.2009
