@@ -1,1 +1,1 @@
---platform=linux/amd64 oracle
+--platform=linux/arm64 nginx
