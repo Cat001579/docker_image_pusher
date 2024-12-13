@@ -1,1 +1,1 @@
-d051d800a302
+--platform=linux/arm64 minio/minio
