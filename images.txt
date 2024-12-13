@@ -1,1 +1,2 @@
---platform=linux/arm64 nginx
+--platform=linux/arm64 redis
+--platform=linux/arm64 kafka
