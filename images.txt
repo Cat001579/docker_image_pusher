@@ -1,1 +1,1 @@
---platform linux/arm64 rocketmq
+--platform linux/arm64 8-jdk-alpine
