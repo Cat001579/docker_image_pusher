@@ -1,1 +1,1 @@
---platform linux/arm64 apache/rocketmq
+--platform linux/arm64 rocketmq
