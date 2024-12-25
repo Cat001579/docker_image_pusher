@@ -1,1 +1,1 @@
-linux/arm64v8/alpine:latest
+arm64v8/alpine:latest
