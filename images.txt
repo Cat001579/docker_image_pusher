@@ -1,1 +1,1 @@
-arm64v8/alpine:latest
+atlas/centos7-atlasos:aarch64-gcc11
